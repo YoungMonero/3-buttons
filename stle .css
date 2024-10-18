@@ -1,20 +1,33 @@
 .one{
-    height: 100px;
-    width: 170px;
-    color: rgb(31, 34, 34);
-    border: 2px;
+    height: 70px;
+    width: 100px;
+    color: rgb(15, 17, 17);
+    border: black;
     background-color: aqua;
-    animation: alternate;
+    padding: 15px;
+    border-radius: 10px;
+    font-weight: bold;
+    cursor: pointer;
 }
 .two{
-    height: 50px;
-    width: 70px;
-    color: burlywood;
-    border:2px;
+    height: 70px;
+    width: 100px;
+    color: rgb(15, 15, 14);
+    border:black;
+    background-color: rgb(104, 184, 50);
+    padding: 15px;
+    border-radius: 10px;
+    font-weight: bold;
+    cursor: pointer;
+
 }
 .three{
-    height: 50px;
-    width: 70px;
-    border: rgb(226, 107, 107);
-    color: 2px;
-    
+    height: 70px;
+    width: 100px;
+    border: rgb(19, 17, 17);
+    color: black;
+    background-color: rgb(124, 31, 201);
+    padding: 15px;
+    border-radius: 10px;
+    font-weight: bold;
+    cursor: pointer;
