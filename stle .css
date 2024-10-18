@@ -1,0 +1,20 @@
+.one{
+    height: 100px;
+    width: 170px;
+    color: rgb(31, 34, 34);
+    border: 2px;
+    background-color: aqua;
+    animation: alternate;
+}
+.two{
+    height: 50px;
+    width: 70px;
+    color: burlywood;
+    border:2px;
+}
+.three{
+    height: 50px;
+    width: 70px;
+    border: rgb(226, 107, 107);
+    color: 2px;
+    
